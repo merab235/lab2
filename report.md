@@ -4,7 +4,7 @@
 Скрипт convert_ip.bash принимает на вход IP-адрес в десятичном формате и преобразует его в двоичный формат. Скрипт использует команду read для разбиения IP-адреса на 4 части и команду bc для перевода каждой части в двоичное число.
 
 Код скрипта
-![Capture d’écran 2024-10-23 à 16.59.34.png](../../../../var/folders/k0/h49qrj653y7f3skyv23b2_0w0000gn/T/TemporaryItems/NSIRD_screencaptureui_HAJkVk/Capture%20d%E2%80%99%C3%A9cran%202024-10-23%20%C3%A0%2016.59.34.png)
+[Capture d’écran 2024-10-23 à 16.59.34.png](../../../../var/folders/k0/h49qrj653y7f3skyv23b2_0w0000gn/T/TemporaryItems/NSIRD_screencaptureui_HAJkVk/Capture%20d%E2%80%99%C3%A9cran%202024-10-23%20%C3%A0%2016.59.34.png)
 
 Этот скрипт принимает IP-адрес как аргумент командной строки и выводит его в двоичной форме.
 
